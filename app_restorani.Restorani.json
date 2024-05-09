@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663cd87d08ef956563f9982b"
+  },
+  "naziv": "Sushi bar",
+  "adresa": "Vinkovačka 15",
+  "broj_telefona": "021458858",
+  "vrsta": "fine dining"
+},
+{
+  "_id": {
+    "$oid": "663cd8f708ef956563f9982c"
+  },
+  "naziv": "Oštarija",
+  "adresa": "Osječka 9",
+  "broj_telefona": "021457859",
+  "vrsta": "pizzerija"
+},
+{
+  "_id": {
+    "$oid": "663cd94608ef956563f9982d"
+  },
+  "naziv": "Bambi",
+  "adresa": "Ulica slobode 6",
+  "broj_telefona": "021478585",
+  "vrsta": "vegeterijanski"
+},
+{
+  "_id": {
+    "$oid": "663cd98208ef956563f9982e"
+  },
+  "naziv": "Velo misto",
+  "adresa": "Vukovarska 14",
+  "broj_telefona": "021457854",
+  "vrsta": "pizzerija"
+},
+{
+  "_id": {
+    "$oid": "663cd9b708ef956563f9982f"
+  },
+  "naziv": "Gorica",
+  "adresa": "Velebitska 14",
+  "broj_telefona": "021758459",
+  "vrsta": "fast food"
+}]
